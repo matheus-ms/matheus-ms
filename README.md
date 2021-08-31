@@ -1,6 +1,6 @@
-Hey guys,👋 I’m Matheus Moura
-I’m interested in learning how to code. 👀
-🌱 I’m currently learning front-end web development.
+Hey guys,👋 I’m Matheus Moura!
+<br>I’m interested in learning how to code. 👀
+<br>🌱 I’m currently learning front-end web development.
 
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
